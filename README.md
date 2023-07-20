@@ -1,6 +1,26 @@
+# Medibuddy: Smart Disease Predictor
 
-# Malaria prediction : 
-![image](https://github.com/ArthurStarks/Malaria_Prediction/assets/137041166/5a0e52e6-77f2-4053-9704-c2e1930f26e2)
+## Sample images of the web application
 
-![image](https://github.com/ArthurStarks/Malaria_Prediction/assets/137041166/602dfb2b-30e3-4ac0-a2d8-10c7758c7fd0)
+### Home Page
+<img src="images/Sample_Web_App_Images/sample1.png" alt="My cool logo"/>
+<br>
 
+### Diabetes Predictor
+<img src="images/Sample_Web_App_Images/sample2.png" alt="My cool logo"/>
+<br>
+
+### Breast Cancer Predictor
+<img src="images/Sample_Web_App_Images/sample3.png" alt="My cool logo"/>
+<br>
+
+### Malaria Predictor
+<img src="images/Sample_Web_App_Images/sample4.png" alt="My cool logo"/>
+<br>
+
+### Negative Result Page
+<img src="images/Sample_Web_App_Images/sample5.png" alt="My cool logo"/>
+<br>
+
+### Positive Result Page
+<img src="images/Sample_Web_App_Images/sample6.png" alt="My cool logo"/>
